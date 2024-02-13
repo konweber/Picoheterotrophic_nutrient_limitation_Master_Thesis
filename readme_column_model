@@ -1,0 +1,3 @@
+1-dimensional water column model
+v1: simplified version that only contains prokaryotic biomass, LDOC and POC
+v2: full model, but not extensively testes
